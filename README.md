@@ -10,9 +10,8 @@ The application provides the following features:
 - Disponibilite calorifique (Calorific Availability): This feature focuses on estimating the calorific availability of food in Mauritania. By considering the energy content of various food items and their availability, users can calculate the total calorific availability to assess the dietary energy supply of the population.
 
 
-
-
-
+## Usage :
+The datasets are confidential.
 ## Contact
 If you have any questions or suggestions regarding this project, please feel free to contact us at [21024@esp.mr].
 
